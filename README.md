@@ -1,6 +1,8 @@
 selfrestart
 ===========
 
+[![Build Status](https://travis-ci.org/nh2/selfrestart.png)](https://travis-ci.org/nh2/selfrestart)
+
 Allows restarting the currently running Haskell executable.
 
 Uses `exec()`.
